@@ -4,7 +4,9 @@ title: Sample Article
 ispage: true
 ---
 
+
 Some simple article
+
 
 ## Title
 
@@ -17,3 +19,5 @@ Some code
 ```
 Another code
 ```
+
+Bla bla
