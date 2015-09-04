@@ -5,17 +5,17 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Cicero
+title:               Cicero Younger
 tagline:             'the GIT Blabling System'
-description:         'Cicero, the GIT Blabling System'
-url:                 http://cicero.github.io
+description:         'Cicero Younger, the GIT Blabling System'
+url:                 http://ciceroyounger.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Cicero Younger
-  url:               https://cicero.github.io
+  url:               https://ciceroyounger.github.io
   email:             ciceroyounger@gmail.com
 
 # Custom vars
