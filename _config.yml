@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               G Content Management System
+tagline:             'gcms'
+description:         'GMS. The Git Content Management System'
+url:                 http://gms.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              GMS
+  url:               https://gms.github.io
+  email:             gms@
+
+# Custom vars
+version:             1.0.0
+
+github:
+  repo:               gms/gms.github.io
+  branch:             master

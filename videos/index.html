@@ -1,0 +1,21 @@
+---
+layout: videogalery
+title: Videos
+---
+
+<br/>
+<div class="posts">
+  {% for video in site.pages %}
+  {% if video.layout == "video" %}
+  <div class="post" style="border-top:3px solid black; border-bottom:2px solid black; padding: 15px; text-align:center; background-color: #EFEFEF;">
+    <center><img src="http://img.youtube.com/vi/{{video.code}}/hqdefault.jpg" /></center>
+    <h3 class="post-title">
+      <a href="{{ video.url }}">
+        {{ video.title }}
+      </a>
+    </h3>
+    <span style="font-size: 14px;">{{ video.tags }}</span>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
