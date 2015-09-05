@@ -5,10 +5,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Cicero Younger
+title:               Lounge Mix
 tagline:             'the GIT Blabling System'
 description:         'Cicero Younger, the GIT Blabling System'
-url:                 http://ciceroyounger.github.io
+url:                 http://loungemix.github.io
 baseurl:             ''
 paginate:            5
 
@@ -22,5 +22,5 @@ author:
 version:             0.0.1
 
 github:
-  repo:               ciceroyounger/cicero.github.io
+  repo:               loungemix/loungemix.github.io
   branch:             master
