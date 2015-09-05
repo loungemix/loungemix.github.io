@@ -144,6 +144,7 @@
 
 		if (query_params['title']) {
 			src_title += query_params['title'] ;
+			src_title = src_title.replace(/\W/g, '');
 			$('#p_filename').val(src_title) ;
 		}
 
